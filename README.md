@@ -32,6 +32,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0073-set-matrix-zeroes](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Matrix
@@ -41,6 +42,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -91,4 +93,8 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0141-linked-list-cycle](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
