@@ -91,6 +91,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -99,4 +100,12 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
