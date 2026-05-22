@@ -30,6 +30,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
@@ -53,6 +54,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
