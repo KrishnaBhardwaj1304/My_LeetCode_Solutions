@@ -16,6 +16,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0394-decode-string](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0394-decode-string/) | Medium |
@@ -54,6 +55,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0027-remove-element](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0061-rotate-list/) | Medium |
@@ -76,6 +78,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
