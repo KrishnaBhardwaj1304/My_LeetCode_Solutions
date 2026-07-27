@@ -20,6 +20,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0006-zigzag-conversion](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0257-binary-tree-paths](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0394-decode-string](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -153,21 +154,28 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | ------- | ------- |
 | [0100-same-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0100-same-tree/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
