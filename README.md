@@ -153,6 +153,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -160,6 +161,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -167,6 +169,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -174,6 +177,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0101-symmetric-tree/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
