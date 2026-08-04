@@ -94,6 +94,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0042-trapping-rain-water](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0394-decode-string](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -171,6 +172,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0113-path-sum-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0257-binary-tree-paths/) | Easy |
@@ -188,6 +190,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0113-path-sum-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0257-binary-tree-paths/) | Easy |
@@ -209,6 +212,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0113-path-sum-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0257-binary-tree-paths/) | Easy |
