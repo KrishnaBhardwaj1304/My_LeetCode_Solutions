@@ -44,6 +44,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0239-sliding-window-maximum](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0463-island-perimeter](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0704-binary-search/) | Easy |
@@ -53,6 +54,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0463-island-perimeter](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +199,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0257-binary-tree-paths](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0437-path-sum-iii/) | Medium |
+| [0463-island-perimeter](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -233,6 +236,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0112-path-sum](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0463-island-perimeter](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
