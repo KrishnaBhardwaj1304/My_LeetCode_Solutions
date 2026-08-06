@@ -180,6 +180,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0257-binary-tree-paths](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0437-path-sum-iii/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -200,6 +201,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0404-sum-of-left-leaves](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0437-path-sum-iii/) | Medium |
 | [0463-island-perimeter](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0463-island-perimeter/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -223,6 +225,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0257-binary-tree-paths](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0437-path-sum-iii/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -251,4 +254,5 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
