@@ -182,6 +182,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0437-path-sum-iii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0437-path-sum-iii/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +204,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0463-island-perimeter](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,6 +242,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0226-invert-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0463-island-perimeter](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0463-island-perimeter/) | Easy |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
