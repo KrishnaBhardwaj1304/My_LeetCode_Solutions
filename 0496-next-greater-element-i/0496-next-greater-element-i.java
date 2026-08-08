@@ -11,7 +11,7 @@ class Solution {
              }
                 if(k == nums2.length - 1){
                     arr[i] = -1;
-                    
+                    continue;
                 }
 
                 
