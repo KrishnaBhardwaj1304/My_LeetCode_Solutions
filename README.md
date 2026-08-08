@@ -12,6 +12,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0141-linked-list-cycle](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0496-next-greater-element-i](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -45,6 +46,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0287-find-the-duplicate-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0463-island-perimeter](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0463-island-perimeter/) | Easy |
+| [0496-next-greater-element-i](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0704-binary-search/) | Easy |
@@ -100,6 +102,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0394-decode-string](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
@@ -107,6 +110,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0402-remove-k-digits](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0402-remove-k-digits/) | Medium |
+| [0496-next-greater-element-i](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
