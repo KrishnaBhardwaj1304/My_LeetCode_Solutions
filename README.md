@@ -14,6 +14,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0424-longest-repeating-character-replacement](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0142-linked-list-cycle-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -191,6 +193,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0572-subtree-of-another-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +220,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0572-subtree-of-another-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +249,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0572-subtree-of-another-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,6 +266,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,6 +282,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
