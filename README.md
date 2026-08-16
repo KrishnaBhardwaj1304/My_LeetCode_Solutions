@@ -83,6 +83,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0035-search-insert-position](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0441-arranging-coins](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
@@ -150,6 +151,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0069-sqrtx](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0069-sqrtx/) | Easy |
+| [0441-arranging-coins](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
