@@ -11,6 +11,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -31,6 +32,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Array
@@ -44,6 +46,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0073-set-matrix-zeroes](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
