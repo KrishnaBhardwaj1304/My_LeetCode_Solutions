@@ -162,6 +162,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0231-power-of-two](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0441-arranging-coins](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0492-construct-the-rectangle](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0492-construct-the-rectangle/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
