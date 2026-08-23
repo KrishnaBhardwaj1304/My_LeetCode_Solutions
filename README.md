@@ -28,6 +28,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0394-decode-string](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [1154-day-of-the-year](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1154-day-of-the-year/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +165,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0445-add-two-numbers-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0728-self-dividing-numbers/) | Easy |
+| [1154-day-of-the-year](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1154-day-of-the-year/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
