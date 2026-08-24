@@ -166,6 +166,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0492-construct-the-rectangle](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1154-day-of-the-year](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1154-day-of-the-year/) | Easy |
+| [2235-add-two-integers](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2235-add-two-integers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
