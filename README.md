@@ -29,6 +29,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0402-remove-k-digits](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1154-day-of-the-year](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1154-day-of-the-year/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,6 +182,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0506-relative-ranks](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0506-relative-ranks/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -328,4 +330,8 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0069-sqrtx/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1859-sorting-the-sentence](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1859-sorting-the-sentence/) | Easy |
 <!---LeetCode Topics End-->
