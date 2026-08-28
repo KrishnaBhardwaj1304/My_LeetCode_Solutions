@@ -16,6 +16,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0496-next-greater-element-i](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0402-remove-k-digits](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1154-day-of-the-year](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1154-day-of-the-year/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -61,6 +63,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0735-asteroid-collision](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +104,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -334,4 +338,8 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1859-sorting-the-sentence](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1859-sorting-the-sentence/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 <!---LeetCode Topics End-->
