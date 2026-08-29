@@ -63,6 +63,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0735-asteroid-collision](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0989-add-to-array-form-of-integer](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -172,6 +173,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0445-add-two-numbers-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0989-add-to-array-form-of-integer](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1154-day-of-the-year](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [2235-add-two-integers](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
