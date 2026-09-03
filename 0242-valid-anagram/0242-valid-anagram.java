@@ -1,32 +1,34 @@
+import java.util.*;
+
+
 class Solution {
     public boolean isAnagram(String s, String t) {
+        HashMap <Character , Integer> map1 = new HashMap<>();
+        HashMap <Character, Integer> map2 = new HashMap<>();
         if(s.length() != t.length()) return false;
-        HashMap <Character , Integer> map1 = new HashMap<>(); 
-        HashMap <Character , Integer> map2 = new HashMap<>();
-        for(int i = 0 ; i< s.length() ; i++){
-            char c1 = s.charAt(i);
-            if(!map1.containsKey(c1)){
-                map1.put(c1 , 1);
-            }else{
-                int t1 = map1.get(c1);
-                map1.put(c1 , t1 + 1);
+
+        for(int i = 0 ; i < s.length(); i++){
+            if(!map1.containsKey(s.charAt(i))){
+                map1.put(s.charAt(i), 1);
+            }
+            else{
+                int count1 = map1.get(s.charAt(i));
+                map1.put(s.charAt(i) , count1+1);
             }
         }
-        for(int i = 0 ; i< t.length() ; i++){
-            char c2 = t.charAt(i);
-            if(!map2.containsKey(c2)){
-                map2.put(c2 , 1);
-            }else{
-                int t2 = map2.get(c2);
-                map2.put(c2 , t2 + 1);
+
+        for(int j = 0 ; j < t.length() ; j++){
+            if(!map2.containsKey(t.charAt(j))){
+                map2.put(t.charAt(j) , 1);
+            }
+            else{
+                int count2 = map2.get(t.charAt(j));
+                map2.put(t.charAt(j), count2 + 1);
             }
         }
-        for(int i = 0 ; i < s.length() ; i++){
-            char g = s.charAt(i);
-            if(!map1.get(g).equals(map2.get(g))){
-                return false;
-            }
-        }
-        return true;
+        // for(int i = 0 ; i < s.length() ; i++){
+        //     if(map1.get(s.charAt(i)) != map2.get(t.charAt(i))) return false;
+        // }
+         return map1.equals(map2);
     }
 }
