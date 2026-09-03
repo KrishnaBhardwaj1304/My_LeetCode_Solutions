@@ -8,6 +8,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | ------- | ------- |
 | [0001-two-sum](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
@@ -27,6 +28,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0005-longest-palindromic-substring](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0049-group-anagrams](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0257-binary-tree-paths/) | Easy |
@@ -52,6 +54,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0033-search-in-rotated-sorted-array](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0049-group-anagrams](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -192,6 +195,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0147-insertion-sort-list](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0217-contains-duplicate](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0242-valid-anagram/) | Easy |
