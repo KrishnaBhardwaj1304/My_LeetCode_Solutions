@@ -11,6 +11,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0049-group-anagrams](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -59,6 +60,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0075-sort-colors](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -367,4 +369,8 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0075-sort-colors/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
