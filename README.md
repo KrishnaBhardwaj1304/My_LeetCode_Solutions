@@ -18,6 +18,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0219-contains-duplicate-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -67,6 +68,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0239-sliding-window-maximum](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0463-island-perimeter](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0506-relative-ranks](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0506-relative-ranks/) | Easy |
@@ -207,6 +209,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0147-insertion-sort-list](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0217-contains-duplicate](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0506-relative-ranks](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Greedy
