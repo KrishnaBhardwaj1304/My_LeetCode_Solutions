@@ -195,6 +195,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [1154-day-of-the-year](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [2235-add-two-integers](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
