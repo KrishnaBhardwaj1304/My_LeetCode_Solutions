@@ -31,6 +31,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0006-zigzag-conversion](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0125-valid-palindrome](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0257-binary-tree-paths/) | Easy |
@@ -100,6 +101,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0042-trapping-rain-water](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
