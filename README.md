@@ -78,6 +78,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0735-asteroid-collision](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## Matrix
@@ -106,6 +107,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0287-find-the-duplicate-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +214,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0242-valid-anagram](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0506-relative-ranks](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0506-relative-ranks/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
