@@ -37,6 +37,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0257-binary-tree-paths](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0394-decode-string](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0402-remove-k-digits/) | Medium |
+| [0412-fizz-buzz](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1154-day-of-the-year](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -191,6 +192,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0002-add-two-numbers](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0069-sqrtx](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0412-fizz-buzz](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0492-construct-the-rectangle/) | Easy |
@@ -225,6 +227,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0735-asteroid-collision](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
