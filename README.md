@@ -129,6 +129,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -200,6 +201,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0728-self-dividing-numbers](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1154-day-of-the-year](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1154-day-of-the-year/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2235-add-two-integers](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
