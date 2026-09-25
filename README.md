@@ -90,6 +90,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
