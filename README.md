@@ -91,6 +91,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
@@ -146,6 +147,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0875-koko-eating-bananas](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
