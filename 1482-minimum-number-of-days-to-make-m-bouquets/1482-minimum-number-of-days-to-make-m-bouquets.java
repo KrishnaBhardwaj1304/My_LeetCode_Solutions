@@ -1,8 +1,3 @@
-// class Solution {
-//     public int minDays(int[] bloomDay, int m, int k) {
-        
-//     }
-// }
 class Solution {
     public int minDays(int[] bloomDay, int m, int k) {
         if ((long) m * k > bloomDay.length) {
@@ -37,12 +32,45 @@ class Solution {
             }
 
             if (bouquets >= m) {
-                right = day;       // This day works; try an earlier one.
+                right = day;       
             } else {
-                left = day + 1;    // Need to wait longer.
+                left = day + 1;    
             }
         }
 
         return left;
-    }
+
+    //     int low = Integer.MAX_VALUE;
+    //     int high = Integer.MIN_VALUE;
+
+    //     for(int bloom : bloomDay){
+    //         low = Math.min(bloom , low);
+    //         high = Math.max(bloom , high);
+
+    //         while(low <= high){
+    //             int mid = low + (high - low)/2;
+
+    //             int bouquets = 0;
+    //             int cons = 0;
+
+    //             for(int bloome : bloomDay){
+    //                 if(bloome <= mid){
+    //                     cons ++;
+    //                     if(bouquets == k){
+    //                         bouquets ++;
+    //                         cons = 0;
+    //                     }
+    //                     }else{
+    //                         cons = 0;
+    //                     }
+    //             }
+    //                 if(bouquets >= m){
+    //                     high = mid;
+    //                 }
+    //                 else{
+    //                     low = mid + 1;
+    //                 }
+    //             }
+    // }return low;
+}
 }
