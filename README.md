@@ -89,6 +89,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0977-squares-of-a-sorted-array](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -146,6 +147,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
