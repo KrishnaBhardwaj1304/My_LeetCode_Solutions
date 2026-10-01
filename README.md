@@ -50,6 +50,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0239-sliding-window-maximum](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0989-add-to-array-form-of-integer](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
