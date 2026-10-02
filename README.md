@@ -42,6 +42,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [1154-day-of-the-year](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1859-sorting-the-sentence/) | Easy |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0424-longest-repeating-character-replacement](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +240,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [1154-day-of-the-year](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2235-add-two-integers](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2235-add-two-integers/) | Easy |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Recursion
