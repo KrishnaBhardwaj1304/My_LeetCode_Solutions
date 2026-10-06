@@ -1,22 +1,3 @@
-// class Solution {
-//     public int totalFruit(int[] fruits) {
-//         HashMap <Integer , Integer> map = new HashMap<>();
-//         int left = 0;
-//         int right = 0;
-//         int curr = 0;
-//         int max = 0;
-//         while(right < fruits.length){
-//             curr = right;
-//             if(curr == map.contains(fruits[curr])){
-//                 map.put(fruits[right] , 1);
-//                 curr++;
-//             }
-//             else
-            
-            
-//         } 
-//     }
-// }
 import java.util.HashMap;
 import java.util.Map;
 
@@ -46,3 +27,24 @@ class Solution {
         return longest;
     }
 }
+
+// class Solution{
+//     public int totalFruits(int []fruits){
+//         HashMap<Integer , Integer> map = new HashMap<>();
+//         int maxlen = 0;
+//         int left = 0;
+
+//         for(int right = 0 ; right < fruits.length; right++){
+//             map.put(fruits.put(fruits[right] , map.getOrDefault(fruits[right] , 0)  + 1));
+//             while(map.size() > 2){
+//                 map.put(fruits[left] , map.getOrDefault(fruits[left] , 0) - 1);
+//                 if(map.getOrDefault(fruits[left] , 0) == 0){
+//                     map.remove(fruits[left]);
+//                 }
+
+//             }
+//             maxlen = Math.max(maxlen , right - left + 1);
+//         }
+//         return maxle;
+//     }
+// }
