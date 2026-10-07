@@ -24,6 +24,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +117,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [1672-richest-customer-wealth](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
