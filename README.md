@@ -23,6 +23,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0560-subarray-sum-equals-k](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1146-snapshot-array](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1146-snapshot-array/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2537-count-the-number-of-good-subarrays](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
@@ -110,6 +111,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0989-add-to-array-form-of-integer](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1146-snapshot-array](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1146-snapshot-array/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -177,6 +179,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0875-koko-eating-bananas](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1146-snapshot-array](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1146-snapshot-array/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -246,6 +249,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [1146-snapshot-array](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1146-snapshot-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -452,4 +456,8 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0278-first-bad-version/) | Easy |
+## Persistent Data Structure
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1146-snapshot-array](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1146-snapshot-array/) | Medium |
 <!---LeetCode Topics End-->
