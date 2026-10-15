@@ -5,41 +5,43 @@ class Solution {
         int startIdx = -1;
         int length = Integer.MAX_VALUE;
         int matched = 0;
-        HashMap<Character, Integer> tmap = new HashMap<>();
+        HashMap <Character , Integer> map = new HashMap<>();
 
-        for(int i = 0;i < t.length() ; i++){
-            tmap.put(t.charAt(i) , tmap.getOrDefault(t.charAt(i) , 0) + 1);
+        for(int i = 0; i < t.length(); i++){
+            char cc = t.charAt(i);
+            map.put(cc , map.getOrDefault(cc , 0) + 1);
         }
 
-        for(; windEnd < s.length() ; windEnd++){
-            char currChar = s.charAt(windEnd);
-            if(tmap.containsKey(currChar)){
-                tmap.put(currChar , tmap.get(currChar) - 1);
-                if(tmap.get(currChar) >= 0){
-                    matched += 1;
+        for(; windEnd < s.length(); windEnd++){
+            char nc = s.charAt(windEnd);
+            if(map.containsKey(nc)){
+                map.put(nc , map.get(nc) - 1);
+                if(map.get(nc) >= 0){
+                    matched++;
                 }
             }
-
             while(matched == t.length()){
                 if(length > (windEnd - windStart + 1)){
-                    length = (windEnd - windStart + 1);
+                    length = windEnd - windStart + 1;
                     startIdx = windStart;
+
                 }
 
                 char startChar = s.charAt(windStart++);
-                if(tmap.containsKey(startChar)){
-                    if(tmap.get(startChar) == 0){
-                        matched -= 1;
+                if(map.containsKey(startChar)){
+                    if(map.get(startChar) == 0){
+                        matched--;
                     }
-                    tmap.put(startChar , tmap.get(startChar )+ 1);
+                    map.put(startChar , map.get(startChar) + 1);
                 }
             }
+
+
+
         }
         if(startIdx == -1){
             return "";
         }
         return s.substring(startIdx , startIdx + length);
-
-
     }
 }
