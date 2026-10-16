@@ -35,7 +35,7 @@ class Solution{
         int left = 0;
 
         for(int right = 0 ; right < fruits.length; right++){
-            // counts.put(fruits[right], counts.getOrDefault(fruits[right], 0) + 1);
+            
             map.put(fruits[right] , map.getOrDefault(fruits[right] , 0)  + 1);
             while(map.size() > 2){
                 map.put(fruits[left] , map.getOrDefault(fruits[left] , 0) - 1);
