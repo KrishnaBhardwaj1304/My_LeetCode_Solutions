@@ -88,6 +88,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0035-search-insert-position](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0057-insert-interval](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0075-sort-colors/) | Medium |
