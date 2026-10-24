@@ -105,6 +105,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0240-search-a-2d-matrix-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0463-island-perimeter](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -213,6 +214,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,6 +303,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0147-insertion-sort-list](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0217-contains-duplicate](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0506-relative-ranks](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -309,6 +312,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0402-remove-k-digits/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
