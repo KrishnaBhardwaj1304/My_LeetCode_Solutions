@@ -29,6 +29,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [1684-count-the-number-of-consistent-strings](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2537-count-the-number-of-good-subarrays](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
+| [2848-points-that-intersect-with-cars](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +138,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2537-count-the-number-of-good-subarrays](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
+| [2848-points-that-intersect-with-cars](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +156,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0713-subarray-product-less-than-k](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [2848-points-that-intersect-with-cars](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
