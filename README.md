@@ -31,6 +31,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2537-count-the-number-of-good-subarrays](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2848-points-that-intersect-with-cars](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2848-points-that-intersect-with-cars/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [1684-count-the-number-of-consistent-strings](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +81,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2537-count-the-number-of-good-subarrays](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
