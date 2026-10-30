@@ -172,6 +172,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0042-trapping-rain-water](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -267,6 +268,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0061-rotate-list/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
