@@ -55,6 +55,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1154-day-of-the-year](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1208-get-equal-substrings-within-budget](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1859-sorting-the-sentence/) | Easy |
@@ -244,6 +245,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0735-asteroid-collision](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
