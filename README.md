@@ -52,6 +52,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0424-longest-repeating-character-replacement](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0443-string-compression/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1154-day-of-the-year](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1208-get-equal-substrings-within-budget](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -242,6 +243,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0590-n-ary-tree-postorder-traversal](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0735-asteroid-collision](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -327,6 +329,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -498,4 +501,8 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1146-snapshot-array](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1146-snapshot-array/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
