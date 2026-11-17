@@ -8,8 +8,8 @@ class Solution {
         int len1 = s.length();
         int len2 = t.length();
 
-        String st1 = "";
-        String st2 = "";
+        StringBuilder sb1 = new StringBuilder("");
+        StringBuilder sb2 = new StringBuilder("");
 
         for(int i = 0 ; i < len1 ; i++){
             char ch = s.charAt(i);
@@ -32,16 +32,11 @@ class Solution {
         }
 
         while(!st.isEmpty()){
-            st1 = st1 + st.pop();
+            sb1.append(st.pop());
         }
         while(!rt.isEmpty()){
-            st2 = st2 + rt.pop();
+            sb2.append(rt.pop());
         }
-        if(st1.equals(st2)){
-            return true;
-        }
-        else{
-            return false;
-        }
+        return sb1.toString().equals(sb2.toString());
         }
     }
