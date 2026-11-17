@@ -52,6 +52,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0424-longest-repeating-character-replacement](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0443-string-compression/) | Medium |
+| [0844-backspace-string-compare](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1154-day-of-the-year](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1208-get-equal-substrings-within-budget](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
@@ -183,6 +184,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0287-find-the-duplicate-number](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0443-string-compression](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0443-string-compression/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0844-backspace-string-compare](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -244,6 +246,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0590-n-ary-tree-postorder-traversal](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0735-asteroid-collision](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0844-backspace-string-compare](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Monotonic Stack
@@ -338,6 +341,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0043-multiply-strings](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0412-fizz-buzz](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0735-asteroid-collision](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [0844-backspace-string-compare](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
