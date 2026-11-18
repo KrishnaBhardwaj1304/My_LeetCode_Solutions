@@ -103,6 +103,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -239,6 +240,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0394-decode-string](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -300,6 +302,7 @@ This repository documents my journey of mastering Data Structures and Algorithms
 | [0002-add-two-numbers](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0043-multiply-strings](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0069-sqrtx](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0069-sqrtx/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0231-power-of-two](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0412-fizz-buzz](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/KrishnaBhardwaj1304/My_LeetCode_Solutions/tree/main/0441-arranging-coins/) | Easy |
